@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a696750-5e9d-4af2-985f-a1392f1e232f)# SQLBolt-Ortega
+# SQLBolt-Ortega
 
 SQL Review
 
