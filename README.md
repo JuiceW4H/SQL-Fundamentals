@@ -42,6 +42,6 @@ Command: SELECT Director, COUNT() FROM Movies LEFT JOIN Boxoffice ON Movies.id =
 
 2. Find the total domestic and international sales that can be attributed to each director
 ```
-SELECT Director, SUM(Domestic_sales) + SUM(International_sales) as Total FROM Movies LEFT JOIN Boxoffice ON Movies.id = Boxoffice.movie_id GROUP BY Director;
+Command: SELECT Director, SUM(Domestic_sales) + SUM(International_sales) as Total FROM Movies LEFT JOIN Boxoffice ON Movies.id = Boxoffice.movie_id GROUP BY Director;
 ```
 <br>
